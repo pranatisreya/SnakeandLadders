@@ -73,7 +73,7 @@ The gist of the problem statement is that we need to create a snake and ladder g
 The main aim is to provide some platform of entertainment to the people through virtual mode, instead of playing with the original board. The people from far places can be connected easily and play. The game can allow maximum of 4 people to play at a time. We can play the game n number of times until we get satisfied. This is a ancient game where our before generation used to play. So, mainly to put the record of it, the game is now available in online.
 
 # 2. SYSTEM REQUIREMENTS
-## 2.1FUNCTIONAL REQUIREMENTS
+## 2.1. FUNCTIONAL REQUIREMENTS
 Number of snakes (s) followed by s lines each containing 2 numbers denoting the head and tail positions of the snake.
 - Number of ladders (l) followed by l lines each containing 2 numbers denoting the start and end positions of the ladder.
 - Number of players (p) followed by p lines each containing a name.
