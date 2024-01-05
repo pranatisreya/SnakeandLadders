@@ -193,10 +193,10 @@ green_c = pygame.image.load("resources/green_c.png")
 blue_c = pygame.image.load("resources/blue_c.png")
 menu_background = pygame.image.load("resources/menu.jpg")
 post = pygame.image.load("resources/game_background.jpg")
-# mouse position
+#mouse position
 mouse = pygame.mouse.get_pos()
 click = pygame.mouse.get_pressed()
-# Message displaying for buttons
+#Message displaying for buttons
 defmessage_display_screen(text, x, y, fs):
 largeText = pygame.font.Font('freesansbold.ttf', fs)
 TextSurf, TextRect = text_objects_screen(text, largeText)
@@ -213,7 +213,7 @@ TextRect.center = (x, y)
 game_layout_display.blit(TextSurf, TextRect)
 def text_objects1_screen(text, font, c):
 textSurface = font.render(text, True, c)
-8
+
  return textSurface, textSurface.get_rect()
 #Goti movement function
 def movement(a):
