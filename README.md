@@ -5,11 +5,9 @@
 
 # ABSTRACT
 Game development uses Python to scripts small codes that automate tasks . Python’s 
-framework provides gaming development for Windows, Mac, Linux, iOS, and Android 
-platforms. The language is often used for making video games that can be played on PC as well as mobile devices.It’s easy to create entire video games using this one language and existing games can add scripting engines to make versioning improvements and modifications. Python is used to provide add on game functionality, create 3D graphics, and script various parts of games. 
+framework provides gaming development for Windows, Mac, Linux, iOS, and Android platforms. The language is often used for making video games that can be played on PC as well as mobile devices.It’s easy to create entire video games using this one language and existing games can add scripting engines to make versioning improvements and modifications. Python is used to provide add on game functionality, create 3D graphics, and script various parts of games. 
 
-Python GUI programmers can use windows, icons, and menus to carry out certain commands 
-for games or programs.The Snake And Ladder Program In Python is a totally practical laptop software venture that covers all the factors that IT college students and computer-associated publications would require for his or her university tasks or for enjoyment time purposes. Snakes and ladders is an antique Indian board sport this is now taken into consideration a conventional across the world. 
+Python GUI programmers can use windows, icons, and menus to carry out certain commands for games or programs.The Snake And Ladder Program In Python is a totally practical laptop software venture that covers all the factors that IT college students and computer-associated publications would require for his or her university tasks or for enjoyment time purposes. Snakes and ladders is an antique Indian board sport this is now taken into consideration a conventional across the world. 
 
 It is performed with greater gamers on a board with numbered, gridded squares. Snakes and ladders pass at some point of the board, connecting specific squares. The gamers navigate the board with the aid of using rolling a dice. A participant who lands on a ladder advances one rectangular up the board, while a participant who lands on a snake ought to go back to the preceding position. This Snake And Ladder Game In Python is beneficial for mastering new talents and working towards Python Game development. This venture is pretty beneficial, and the idea and common sense of the venture are easy to grasp. We may also create highly fascinating games with the Python programming language. The snake and ladder game is one of them. The project system file comprises resource files as well as a Python script. The graphics of the game are smooth, and the controls are simple.
 
@@ -29,29 +27,29 @@ random numbers between 0 and 1.
 
 TABLE OF CONTENTS
 
-ABSTRACT v
-1. INTRODUCTION
-1.1 Introduction 1
-1.2 Application 1
-1.3 Problem statement 1
-1.4 Aim and objective 2
+ABSTRACT v. 
+1. INTRODUCTION. 
+1.1 Introduction 1. 
+1.2 Application 1. 
+1.3 Problem statement 1. 
+1.4 Aim and objective 2. 
 
-2. SYSTEM REQUIREMENTS
-2.1 Functional requirements 3
-2.2 Non-functional requirements 4
-2.3 Software requirements 4
-2.4 Hardware requirements 5
+2. SYSTEM REQUIREMENTS. 
+2.1 Functional requirements 3. 
+2.2 Non-functional requirements 4. 
+2.3 Software requirements 4. 
+2.4 Hardware requirements 5. 
 
-3. IMPLEMENTATION 6
+3. IMPLEMENTATION 6. 
 
-4. RESULTS AND TESTING 19
+4. RESULTS AND TESTING 19. 
 
-6. CONCLUSION AND FUTURE SCOPE
- 6.1 Conclusion 22
- 6.2 Limitations 22
- 6.3 Future Scope 22
+6. CONCLUSION AND FUTURE SCOPE. 
+ 6.1 Conclusion 22. 
+ 6.2 Limitations 22. 
+ 6.3 Future Scope 22. 
 
-7. BIBLIOGRAPHY 23
+7. BIBLIOGRAPHY 23. 
 
 # 1. INTRODUCTION
 
