@@ -29,7 +29,7 @@ TABLE OF CONTENTS
 
 ABSTRACT v. 
 1. INTRODUCTION. 
--*[1.1 Introduction 1.](# 1. INTRODUCTION) 
+*[1.1 INTRODUCTION](#1.1 INTRODUCTION) 
 -1.2 Application 1. 
 -1.3 Problem statement 1. 
 -1.4 Aim and objective 2. 
@@ -53,7 +53,9 @@ ABSTRACT v.
 
 # 1. INTRODUCTION
 
-## 1.1 INTRODUCTION
+
+#<a name="1.1 INTRODUCTION"></a> 1.1 INTRODUCTION
+
 
 The Snake And Ladder Program In Python is a totally useful computer based task that covers all the factors that IT college students and computer-associated guides would require for his or her university tasks or for enjoyment time purposes. Snakes and ladders is an vintage Indian board recreation this is now taken into consideration a conventional across the world. It is performed with or greater gamers on a board with numbered, gridded squares. Snakes and ladders cross all through the board, connecting exceptional squares. The gamers navigate the board through rolling a dice. A participant who lands on a ladder advances one rectangular up the board, while a participant who lands on a snake should go back to the preceding position. 
 This Snake And Ladder Game In Python is beneficial for getting to know new talents and 
