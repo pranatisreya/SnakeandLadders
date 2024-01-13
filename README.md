@@ -28,21 +28,21 @@ random numbers between 0 and 1.
 TABLE OF CONTENTS
 
 ABSTRACT v. 
-1. INTRODUCTION. 
-*[1.1 INTRODUCTION](#1.1 INTRODUCTION) 
--1.2 Application 1. 
--1.3 Problem statement 1. 
--1.4 Aim and objective 2. 
+1. INTRODUCTION.
+   -1.1 Introduction 1. 
+   -1.2 Application 1. 
+   -1.3 Problem statement 1. 
+   -1.4 Aim and objective 2. 
 
-2. SYSTEM REQUIREMENTS. 
+3. SYSTEM REQUIREMENTS. 
 2.1 Functional requirements 3. 
 2.2 Non-functional requirements 4. 
 2.3 Software requirements 4. 
 2.4 Hardware requirements 5. 
 
-3. IMPLEMENTATION 6. 
+4. IMPLEMENTATION 6. 
 
-4. RESULTS AND TESTING 19. 
+5. RESULTS AND TESTING 19. 
 
 6. CONCLUSION AND FUTURE SCOPE. 
  6.1 Conclusion 22. 
@@ -54,8 +54,7 @@ ABSTRACT v.
 # 1. INTRODUCTION
 
 
-#<a name="1.1 INTRODUCTION"></a> 1.1 INTRODUCTION
-
+## Introduction
 
 The Snake And Ladder Program In Python is a totally useful computer based task that covers all the factors that IT college students and computer-associated guides would require for his or her university tasks or for enjoyment time purposes. Snakes and ladders is an vintage Indian board recreation this is now taken into consideration a conventional across the world. It is performed with or greater gamers on a board with numbered, gridded squares. Snakes and ladders cross all through the board, connecting exceptional squares. The gamers navigate the board through rolling a dice. A participant who lands on a ladder advances one rectangular up the board, while a participant who lands on a snake should go back to the preceding position. 
 This Snake And Ladder Game In Python is beneficial for getting to know new talents and 
